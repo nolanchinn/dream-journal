@@ -1,4 +1,4 @@
-#DREAM JOURNAL
+# DREAM JOURNAL
 
 This is a dream journalling application.
 
@@ -8,6 +8,6 @@ If a file for today already exists it will open the file pointing towards the en
 Files will exist in a subdirectory that looks like "YYYY/MM" with a filename that looks like "YYYY-MM-DD" 
 
 
-##TODO
+## TODO
  - write script to read dreams on certain date
  - write compile set of dreams spanning a time frame
