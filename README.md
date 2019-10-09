@@ -11,3 +11,4 @@ Files will exist in a subdirectory that looks like "YYYY/MM" with a filename tha
 ## TODO
  - write script to read dreams on certain date
  - write compile set of dreams spanning a time frame
+ - remove hardcoding of executable/storage directory
